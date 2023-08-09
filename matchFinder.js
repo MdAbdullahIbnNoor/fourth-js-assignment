@@ -5,7 +5,7 @@ function matchFinder(string1, string2) {
     }
 
     else{
-        console.log("The input given is invalid, Please give the correct one..");
+        return "The input given is invalid, Please give the correct one..";
     }
 }
 

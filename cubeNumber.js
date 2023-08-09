@@ -4,7 +4,7 @@ function cubeNumber(numbers) {
         return result;
     }
     else{
-        console.log("Please give the correct input..");
+        return "Please give the correct input..";
     }
 }
 
