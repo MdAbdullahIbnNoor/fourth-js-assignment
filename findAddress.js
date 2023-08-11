@@ -12,9 +12,7 @@ function findAddress(obj) {
     }
 
     return array;
-
 }
-
 
 const obj = {
     street: 10,
